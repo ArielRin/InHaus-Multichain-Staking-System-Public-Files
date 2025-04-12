@@ -94,8 +94,6 @@ The Multi-Chain Staking Platform is designed to empower both developers and end-
 4. **Deploy the Pool:** Submit the transaction to deploy the pool. Once confirmed, your pool will be live and visible on the main dashboard.
 5. **Customize Your Page:** Edit your pool’s page by adding custom images and social links to enhance user trust.
 
-*For a video tutorial, watch [Deploy Your Own Staking Pool](https://example.com/deploy-tutorial).*
-
 ### How to Stake in a Pool
 
 1. **Browse Available Pools:** Use the toggle switch to filter pools by your connected network or view all pools.
@@ -103,8 +101,6 @@ The Multi-Chain Staking Platform is designed to empower both developers and end-
 3. **Deposit Tokens:** Use the deposit button (or modal pop-up) to enter the amount you wish to stake.
 4. **Monitor Your Position:** Check your staking dashboard for updated staking position, pending rewards, and APR.
 5. **Manage Rewards:** Choose to compound your rewards or harvest them directly based on your investment strategy.
-
-*For detailed step-by-step instructions, visit our [User Staking Guide](https://example.com/user-staking-guide).*
 
 ---
 
@@ -137,7 +133,7 @@ The security of our smart staking contracts is paramount. Our system is built on
 - **Decentralized Control:** Each staking pool is deployed by an independent operator who is responsible for the pool’s operations. This decentralizes risk and ensures accountability.
 - **Fee Distribution:** A small transaction fee per staking function (ranging from 25 to 50 cents) is automatically allocated to the deployer treasury, ensuring that deployers have a financial incentive to maintain security.
 - **Contract Audits:** Our contracts follow industry best practices and have been subjected to independent security audits. This process reduces the risk of exploits and vulnerabilities.
-- **Harvest vs. Compound – An Essay:**
+- **Harvest vs. Compound:**
 
   In our system, **harvest** and **compound** serve distinct purposes. Harvesting allows users to claim accumulated rewards as they are earned. This function is ideal when users want to realize gains or use the rewards for other purposes. On the other hand, **compounding** reinvests the rewards into the staking pool, increasing the user’s stake and potentially enhancing future rewards exponentially through continuous reinvestment. Both methods have their advantages, and the choice depends largely on the user’s individual investment strategy and market conditions.
 
