@@ -44,6 +44,8 @@ The Multi-Chain Staking Platform is designed to empower both developers and end-
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/ArielRin/InHaus-Multichain-Staking-System-Public-Files/refs/heads/main/public/Assets/img6.png)
 
+![Cards Layout Screenshot](https://raw.githubusercontent.com/ArielRin/InHaus-Multichain-Staking-System-Public-Files/refs/heads/main/public/Assets/img2.png)
+
 ---
 
 ## Key Features
@@ -66,6 +68,7 @@ The Multi-Chain Staking Platform is designed to empower both developers and end-
 - **Deployer Treasury:** A built-in fee mechanism collects a small transaction fee (approx. 25–50 cents per function call) that is routed directly to the deployer’s treasury.
 - **Ownership & Accountability:** The system ensures that the pool deployer retains control and responsibility over their pool operations.
 
+![Deploy Layout Screenshot](https://raw.githubusercontent.com/ArielRin/InHaus-Multichain-Staking-System-Public-Files/refs/heads/main/public/Assets/img4.png)
 ### Staking Actions: Deposit, Withdraw, Compound & Harvest
 
 - **Deposit & Withdraw:** Integrated controls (with modals for a clean UX) enable users to deposit or withdraw tokens seamlessly.
