@@ -5,7 +5,8 @@
 
 The Multi-Chain Staking Platform is a comprehensive staking system built to support multiple blockchain networks. It provides users and pool operators with a full-featured UI—including deploy-your-own staking pools, detailed staking pages, and customizable social links—and secure smart contracts designed to ensure safety and decentralization.
 
-**Visit Our Website:** [Multi-Chain Staking Platform]([https://example.com](https://inhaustemplate2025.netlify.app/))
+
+**Open the Dapp:** [Multi-Chain Staking Platform](https://inhaustemplate2025.netlify.app/)
 
 ---
 
