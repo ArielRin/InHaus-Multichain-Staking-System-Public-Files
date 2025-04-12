@@ -42,7 +42,7 @@ The Multi-Chain Staking Platform is designed to empower both developers and end-
 - **Deployer responsibility and fee structure:** Every pool operator is responsible for their own pool, with transaction fees of approximately $0.25–$0.50 per staking function directed to the deployer treasury.
 - **Customizable pool pages:** Personalize your staking pool with custom images, social links, and branding.
 
-![Dashboard Screenshot](https://example.com/images/staking-dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/ArielRin/InHaus-Multichain-Staking-System-Public-Files/refs/heads/main/public/Assets/img6.png)
 
 ---
 
