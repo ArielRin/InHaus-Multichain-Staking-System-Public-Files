@@ -1,7 +1,7 @@
 
 # InHaus Multi-Chain Staking Platform
 
-![Project Logo](https://example.com/images/project-logo.png)
+![Project Logo](https://raw.githubusercontent.com/ArielRin/InHaus-Multichain-Staking-System-Public-Files/refs/heads/main/public/Assets/img1.png)
 
 The Multi-Chain Staking Platform is a comprehensive staking system built to support multiple blockchain networks. It provides users and pool operators with a full-featured UI—including deploy-your-own staking pools, detailed staking pages, and customizable social links—and secure smart contracts designed to ensure safety and decentralization.
 
